@@ -1,0 +1,2 @@
+# djbase
+Django Base Project
